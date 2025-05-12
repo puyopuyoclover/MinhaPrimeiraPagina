@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\CasaMateriaisDeConstrucao\\MinhaPrimeiraPagina\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Alunos\\Documents\\CasaMateriaisDeConstrucao\\MinhaPrimeiraPagina\\wwwroot\\sobre.html",
+      "PackagePath": "staticwebassets\\sobre.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MinhaPrimeiraPagina.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MinhaPrimeiraPagina.props",
+      "PackagePath": "build\\MinhaPrimeiraPagina.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MinhaPrimeiraPagina.props",
+      "PackagePath": "buildMultiTargeting\\MinhaPrimeiraPagina.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MinhaPrimeiraPagina.props",
+      "PackagePath": "buildTransitive\\MinhaPrimeiraPagina.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
